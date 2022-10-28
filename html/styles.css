@@ -1,0 +1,60 @@
+body {
+    background-color:#2e3338;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+    
+
+nav {
+    background-color: rgb(38, 38, 67);
+    height: 40px;
+  
+}
+
+main {
+    height: 400px;
+    text-align: center;
+   padding-top: 80px;
+   padding-left: 240px;
+   padding-right: 240px;
+}
+
+footer {
+    background-color: rgb(33, 60, 105);
+    height: 100px;
+  
+}
+
+.vgs {
+    width: 100px;
+    height: 80px;
+   margin-top: 20px;
+   margin-right: 888px;
+}
+
+h1 {
+    font-size: 60px;
+    color: white;
+    /* font-family:'Times New Roman', Times, serif; */
+}
+
+p {
+    font-size: 18px;
+    color: white;
+     /* font-family:'Times New Roman', Times, serif; */ 
+}
+
+a {
+    color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+    /* text-decoration: none; */ 
+}
